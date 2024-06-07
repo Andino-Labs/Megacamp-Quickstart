@@ -12,7 +12,7 @@
 > [!TIP]
 > Sugerimos que uses un IDE, el cual se te sea amigable y comodo, buenas alternativas son
 
-- [VsCode](https://code.visualstudio.com/Download)
+- El más utilizado y estandar en la industria: [VsCode](https://code.visualstudio.com/Download)
 - Otra muy buena alternativa que puedes utilizar es [Sublime Text](https://www.sublimetext.com/)
 - No olvidemos a [zed](https://zed.dev/) que es un muy buen IDE para MacOS.
 - En el caso de que seas un usuario más experimentado, utilizes alguna distro de MacOS o Linux y quieras más control sobre tu entorno te recomiendo probar [Neovim](https://neovim.io/) con su ecosistema de plugins basado en [Lua](https://lua.org/) al que puedes acceder mediante [Lazy Nvim](https://github.com/folke/lazy.nvim) .
